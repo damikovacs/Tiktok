@@ -88,3 +88,16 @@ p {
   font-style: italic;
   margin-top: 25px;
 }
+
+a {
+  color: #00f2ea;
+}
+a :visited {
+  color: #00f2ea;
+}
+a :hover{
+  color: #ff0050;
+}
+a :active {
+  color: #ff0050;
+}
