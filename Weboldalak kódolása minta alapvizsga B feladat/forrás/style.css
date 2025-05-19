@@ -81,3 +81,10 @@ p {
   border-bottom-color: #ff0050;
   padding: 5px;
 }
+
+.csatorna_leiras {
+  color: black;
+  font-size: 18px;
+  font-style: italic;
+  margin-top: 25px;
+}
